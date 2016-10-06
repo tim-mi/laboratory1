@@ -1,4 +1,4 @@
-// ResolvingEquation.cpp: определяет точку входа для консольного приложения.
+// ResolvingEquation.cpp: Г®ГЇГ°ГҐГ¤ГҐГ«ГїГҐГІ ГІГ®Г·ГЄГі ГўГµГ®Г¤Г  Г¤Г«Гї ГЄГ®Г­Г±Г®Г«ГјГ­Г®ГЈГ® ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї.
 //
 
 #include "stdafx.h"
@@ -16,7 +16,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		printf(" Result is %f", a);
 	}
 	else 
-		printf("Недопустимое значение");
+		printf("ERROR\nInvalid value");
 	
 	getch();
 
